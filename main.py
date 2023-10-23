@@ -1,4 +1,3 @@
- импортируем библиотеку streamlit
 import streamlit as st
 
 # заголовок приложения
